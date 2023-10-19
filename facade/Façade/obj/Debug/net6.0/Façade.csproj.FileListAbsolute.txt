@@ -1,0 +1,102 @@
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\Façade.exe
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\Façade.deps.json
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\Façade.runtimeconfig.json
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\Façade.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\Façade.pdb
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\DnsClient.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\RestSharp.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.csproj.AssemblyReference.cache
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.AssemblyInfoInputs.cache
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.AssemblyInfo.cs
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.csproj.CoreCompileInputs.cache
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.csproj.CopyComplete
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\refint\Façade.dll
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.pdb
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\Façade.genruntimeconfig.cache
+C:\Users\tim_b\OneDrive - Windesheim Office365\Design patronen\facade\Façade\obj\Debug\net6.0\ref\Façade.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\Façade.exe
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\Façade.deps.json
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\Façade.runtimeconfig.json
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\Façade.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\Façade.pdb
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Kevin\Source\Repos\facade\Façade\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.csproj.AssemblyReference.cache
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.AssemblyInfoInputs.cache
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.AssemblyInfo.cs
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.csproj.CopyComplete
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\refint\Façade.dll
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.pdb
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\Façade.genruntimeconfig.cache
+C:\Users\Kevin\Source\Repos\facade\Façade\obj\Debug\net6.0\ref\Façade.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\Façade.exe
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\Façade.deps.json
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\Façade.runtimeconfig.json
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\Façade.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\Façade.pdb
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\DnsClient.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\RestSharp.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.csproj.AssemblyReference.cache
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.AssemblyInfoInputs.cache
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.AssemblyInfo.cs
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.csproj.CoreCompileInputs.cache
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.csproj.CopyComplete
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\refint\Façade.dll
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.pdb
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\Façade.genruntimeconfig.cache
+C:\Users\gew20\Documents\School\Jaar 3\Design Patterns\Facade\Façade\obj\Debug\net6.0\ref\Façade.dll

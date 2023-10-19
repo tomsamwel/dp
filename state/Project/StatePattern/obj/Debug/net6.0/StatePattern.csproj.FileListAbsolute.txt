@@ -1,0 +1,15 @@
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\bin\Debug\net6.0\StatePattern.exe
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\bin\Debug\net6.0\StatePattern.deps.json
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\bin\Debug\net6.0\StatePattern.runtimeconfig.json
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\bin\Debug\net6.0\StatePattern.dll
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\bin\Debug\net6.0\StatePattern.pdb
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\StatePattern.csproj.AssemblyReference.cache
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfo.cs
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\StatePattern.dll
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\refint\StatePattern.dll
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\StatePattern.pdb
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\StatePattern.genruntimeconfig.cache
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\Project\StatePattern\obj\Debug\net6.0\ref\StatePattern.dll

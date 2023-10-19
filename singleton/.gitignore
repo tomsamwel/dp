@@ -1,0 +1,11 @@
+﻿.idea
+.vs
+Singleton/.idea
+Singleton/.vs
+Singleton/obj/
+Singleton/bin/
+Singleton/TestResults
+Singleton/Singleton/bin
+Singleton/Singleton/obj
+Singleton/TestSingleton/obj
+Singleton/TestSingleton/bin

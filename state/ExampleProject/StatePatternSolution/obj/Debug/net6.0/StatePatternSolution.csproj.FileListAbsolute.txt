@@ -1,0 +1,15 @@
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\bin\Debug\net6.0\StatePatternSolution.exe
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\bin\Debug\net6.0\StatePatternSolution.deps.json
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\bin\Debug\net6.0\StatePatternSolution.runtimeconfig.json
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\bin\Debug\net6.0\StatePatternSolution.dll
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\bin\Debug\net6.0\StatePatternSolution.pdb
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\StatePatternSolution.csproj.AssemblyReference.cache
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\StatePatternSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\StatePatternSolution.AssemblyInfoInputs.cache
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\StatePatternSolution.AssemblyInfo.cs
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\StatePatternSolution.csproj.CoreCompileInputs.cache
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\StatePatternSolution.dll
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\refint\StatePatternSolution.dll
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\StatePatternSolution.pdb
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\StatePatternSolution.genruntimeconfig.cache
+C:\Users\jortd\Desktop\Windesheim\Jaar 3\Semester 1 QSD\Design Patterns\state\ExampleProject\StatePatternProblem\obj\Debug\net6.0\ref\StatePatternSolution.dll

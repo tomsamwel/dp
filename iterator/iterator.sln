@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongIterator", "SongIterator\SongIterator.csproj", "{F54410B7-4C4C-4D88-8309-56C3207CDAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongIterator.Tests", "SongIterator.Tests\SongIterator.Tests.csproj", "{3B58A804-5CE8-4802-8F27-E82C049534C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54410B7-4C4C-4D88-8309-56C3207CDAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54410B7-4C4C-4D88-8309-56C3207CDAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54410B7-4C4C-4D88-8309-56C3207CDAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54410B7-4C4C-4D88-8309-56C3207CDAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B58A804-5CE8-4802-8F27-E82C049534C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B58A804-5CE8-4802-8F27-E82C049534C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B58A804-5CE8-4802-8F27-E82C049534C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B58A804-5CE8-4802-8F27-E82C049534C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

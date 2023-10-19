@@ -1,0 +1,16 @@
+D:\Programming\Projects\Command\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+D:\Programming\Projects\Command\Command\obj\Debug\Command.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Projects\Command\Command\obj\Debug\App.g.cs
+D:\Programming\Projects\Command\Command\obj\Debug\Command_MarkupCompile.cache
+D:\Programming\Projects\Command\Command\obj\Debug\Command_MarkupCompile.lref
+D:\Programming\Projects\Command\Command\bin\Debug\Command.exe.config
+D:\Programming\Projects\Command\Command\bin\Debug\Command.exe
+D:\Programming\Projects\Command\Command\bin\Debug\Command.pdb
+D:\Programming\Projects\Command\Command\obj\Debug\Command.g.resources
+D:\Programming\Projects\Command\Command\obj\Debug\Command.Properties.Resources.resources
+D:\Programming\Projects\Command\Command\obj\Debug\Command.csproj.GenerateResource.cache
+D:\Programming\Projects\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Command\Command\obj\Debug\Command.exe
+D:\Programming\Projects\Command\Command\obj\Debug\Command.pdb
+D:\Programming\Projects\Command\Command\obj\Debug\RaceGame.g.cs
+D:\Programming\Projects\Command\Command\obj\Debug\RaceGame.baml
